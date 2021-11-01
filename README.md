@@ -5,5 +5,6 @@ Games:
   3. Hank Cricket
   4. Number Guess
 
+[Try It](https://web-games.prathamjaiswal.repl.co)
 
 [![Run on Repl.it](https://repl.it/badge/github/pratham-jaiswal/web-games)](https://repl.it/github/pratham-jaiswal/web-games)
