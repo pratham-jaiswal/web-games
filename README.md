@@ -1,8 +1,8 @@
 # web-games
 Games:
   1. Rock Paper Scissors
-  2. Dice race
-  3. Hank Cricket
+  2. Dice Race
+  3. Hand Cricket
   4. Number Guess
 
 [Try It](https://web-games.prathamjaiswal.repl.co)
